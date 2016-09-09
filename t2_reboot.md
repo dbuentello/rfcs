@@ -1,6 +1,7 @@
 - Start Date: 2016-09-08
 - RFC PR: 
-- Tessel Issue: 
+- Tessel Issues: 
+- Tessel PRs: [t2-firmware #215](https://github.com/tessel/t2-firmware/pull/215)
 
 # Summary
 
